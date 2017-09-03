@@ -12,9 +12,9 @@ public class FBElasticImport {
 
     static String elasticHost = "dyn.gibar.co" ;
     static String elasticPort = "9200" ;
-    static String elasticIndex = "freestyle";
+    static String elasticIndex = "benchen83";
     static String elasticIndexType = "data";
-    static String pageName = "靠北北大";
+    static String pageName = "NTPUhate";
     // 2017-09-02
     static long start = 1504363907;
     // 往前抓抓取日期數
